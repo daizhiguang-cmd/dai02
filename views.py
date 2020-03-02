@@ -4,3 +4,6 @@ from django.http import HttpResponse
 
 def haha(request):
     return HttpResponse('haha')
+
+def heihei(request):
+    return HttpResponse('heihei')
