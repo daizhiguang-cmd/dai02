@@ -7,3 +7,7 @@ def haha(request):
 
 def heihei(request):
     return HttpResponse('heihei')
+
+
+def xixi(request):
+    return HttpResponse('xixi')
